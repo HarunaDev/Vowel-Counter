@@ -9,6 +9,4 @@ submitBtn.addEventListener("click", () => {
     inputEl.value=""
   
     return alert(`${countVowels}`)
-  
-    
-  })
+})
