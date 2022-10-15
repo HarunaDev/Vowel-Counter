@@ -1,4 +1,4 @@
-# Vowel Counter web application
+# Vowel Counter Web Application
 
 ### **Description**
 
